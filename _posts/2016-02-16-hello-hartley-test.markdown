@@ -4,23 +4,22 @@ layout: default
 
 this is a test
 
+# This is a test
+
+WHere are we :ocean:
+Santa Cruz California
 <div class="card">
 
-<img src="/images/hartley-3.jpg">
+<img src="{{site.baseurl}}/images/hartley-3.jpg">
 
 <div class="card-content loc">
+  <h1></h1>
+  <p>Steamer Lane<br>Santa Cruz, California</p>
 
-Cerulean
-==========
-
-:ocean:
-
-
-Steamer Lane - Santa Cruz, California
 
 <div class="button-center">
 
-[@Brodega][www.instagram.com/brodega]
+  <a href="https://www.instagram.com/brodega/">@Brodega</a>
 
 </div>
 
