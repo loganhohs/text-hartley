@@ -10,8 +10,8 @@ title: Hello Hartley
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Text Hartley
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://loganhohs.github.io/text-hartley" # the base hostname & protocol for your site
+baseurl: "/text-hartley" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
