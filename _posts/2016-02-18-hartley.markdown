@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+### Thursday -- 2.18.2016
+
+![instagram1]
+
+<h4><i class="em em-ocean"></i></h4>
+
+## Rio de Janeiro, Brazil
+
+[@forestwoodward](https://www.instagram.com/forestwoodward/){:target="_blank"}
+
+------
+
+![instagram2]
+
+<h4><i class="em em-sunrise"></i></h4>
+
+## Cape Town, South Africa
+
+[@erubes1](https://www.instagram.com/erubes1/){:target="_blank"}
+
+------
+
+![instagram3]
+
+<h4><i class="em em-camera"></i></h4>
+
+## Unknown, Kashmir
+
+[@13thwitness](https://www.instagram.com/13thwitness/){:target="_blank"}
+
+
+
+
+
+
+[instagram1]: {{site.baseurl}}/images/2-18-16/instagram1.jpg
+[instagram2]: {{site.baseurl}}/images/2-18-16/instagram2.jpg
+[instagram3]: {{site.baseurl}}/images/2-18-16/instagram3.jpg
