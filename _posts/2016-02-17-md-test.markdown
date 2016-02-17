@@ -2,16 +2,29 @@
 layout: default
 ---
 
-### Wednesday -- 2.17.2015
-![]({{site.baseurl/images/hartley-3.jpg}})
+### Wednesday -- 2.17.2015  
+  
+![brodega]
+
 <h4><i class="em em-ocean"></i></h4>
 
 ## Santa Cruz, California
+
+[@brodega](https://www.instagram.com/brodega/?hl=en)
+
 ---
+
   <div class="video-container">
   <iframe src="https://player.vimeo.com/video/135811337" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   </div>
 
 # A Big Backyard
+<span id="desc">
 Mellow out as filmmaking couple **Cyrus Sutton** and **Anna Ehrgott** take you on a ride through the southwestern United States. Sit by while they build campfires, skinny dip in springs, and live the van life
+</span>
+
 [watch on vimeo](https://vimeo.com/135811337)
+
+
+
+[brodega]: {{site.baseurl}}/images/hartley-3.jpg
