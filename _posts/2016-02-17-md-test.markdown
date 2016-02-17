@@ -10,13 +10,13 @@ layout: default
 
 ## Santa Cruz, California
 
-[@brodega](https://www.instagram.com/brodega/?hl=en)
+[@brodega](https://www.instagram.com/brodega/?hl=en){:target="_blank"}
 
 ---
 
-  <div class="video-container">
-  <iframe src="https://player.vimeo.com/video/135811337" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-  </div>
+<div class="video-container">
+<iframe src="https://player.vimeo.com/video/149478317?color=f3d0b5&title=0&byline=0&portrait=0&badge=0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 # A Big Backyard
 <span id="desc">
